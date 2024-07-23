@@ -1,7 +1,7 @@
 #  Hola a Todos, soy Emanuel Reyes 👋
 ### Desarrollador Full Stack | Backend
 
-![Banner](https://i.imgur.com/weNbhGZ.png)
+![Banner](banner-github-condor-coders.png)
 
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]()
@@ -22,7 +22,7 @@ Egresado del Instituto Politécnico Nacional <br>
 - 😄 Clean Code
 - ⚡ Metodologia Agil
 
-> 👥 [Certificados]() (Most Valuable Professional) in Developer Technologies
+> 👥 [Certificados]() 
 > 
 > ⭐️ [Blog]()
 
