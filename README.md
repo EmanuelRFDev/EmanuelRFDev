@@ -4,8 +4,8 @@
 ![Banner](https://i.imgur.com/weNbhGZ.png)
 
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin)]()
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--0077B5?style=for-the-badge&logo=linkedin)]()
+[![Web](https://img.shields.io/badge/Portfolio-14a1f0?style=for-the-badge&logo=dev.to)]()
 
 ## Sobre mi
 
