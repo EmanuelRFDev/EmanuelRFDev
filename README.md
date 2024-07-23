@@ -31,7 +31,7 @@ Egresado del Instituto Politécnico Nacional
 
 ## Mi Stack:
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badgelogo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
+[![YouTube](https://img.shields.io/badge/YouTube-logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@mouredevtv)
 </br>
 [![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
