@@ -12,11 +12,10 @@
 
 ## Sobre mi
 
-Soy ingeniero de software profesional desde 2010.
+Egresado del Instituto Politécnico Nacional 
++6 meses de experiencia desarrollado proyectos personales, autodidacta buscando crecer y mejora profesional. Poseo mayor experiencia en desarrollo backend ingresa a mi portfolio para ver mis proyectos. 
 
-He trabajado en distintas multinacionales del sector, creando [MoureDev](https://moure.dev) en 2015 para dedicarme a desarrollar aplicaciones móviles a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado más de 150 proyectos (alcanzando el número 1 en 30 países) y he creado mi propia startup.
-
-Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
+“Desarollo ideas analíticas y backend robusto con soluciones de calidad sostenibles en el tiempo”
 
 - 👋 Hi, I’m @EmanuelRFDev
 - 👀 I’m interested in ...
@@ -33,7 +32,7 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 ## Mi Stack:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredevtv)
+[![YouTube](https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredevtv)
 </br>
 [![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
