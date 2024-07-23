@@ -1,7 +1,7 @@
 #  Hola a Todos, mi nombre es Emanuel Reyes 👋
-### Full Stack 
+### Desarrollador Full Stack | Backend
 
-![https://i.imgur.com/weNbhGZ.png](https://i.imgur.com/weNbhGZ.png)
+![Banner](https://i.imgur.com/weNbhGZ.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
@@ -30,7 +30,7 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 > 
 > ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
 
-## Encuéntrame en:
+## Mi Stack:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
 [![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredevtv)
