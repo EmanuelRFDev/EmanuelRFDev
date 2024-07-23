@@ -3,8 +3,9 @@
 
 ![Banner](https://i.imgur.com/weNbhGZ.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
-[![Web](https://img.shields.io/badge/Web-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
+[![YouTube](https://img.shields.io/badge/YouTube-logoColor=white&labelColor=101010)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-logoColor=white&labelColor=101010)]()
+[![Web](https://img.shields.io/badge/Portfolio-logoColor=white&labelColor=101010)]()
 
 ## Sobre mi
 
