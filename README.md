@@ -1,4 +1,4 @@
-#  Hola a Todos, mi nombre es Emanuel Reyes 👋
+#  Hola a Todos, soy Emanuel Reyes 👋
 ### Desarrollador Full Stack | Backend
 
 ![Banner](https://i.imgur.com/weNbhGZ.png)
