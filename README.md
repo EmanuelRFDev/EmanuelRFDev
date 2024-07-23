@@ -9,8 +9,8 @@
 
 ## 
 
-Egresado del Instituto Politécnico Nacional 
-+6 meses de experiencia desarrollado proyectos personales, autodidacta buscando crecer y mejora profesional. Poseo mayor experiencia en desarrollo backend ingresa a mi portfolio para ver mis proyectos. 
+Egresado del Instituto Politécnico Nacional <br> 
+<span>+6</span> meses de experiencia desarrollado proyectos personales, autodidacta buscando crecer y mejora profesional. Poseo mayor experiencia en desarrollo backend ingresa a mi portfolio para ver mis proyectos. 
 
 “Desarollo ideas analíticas y backend robusto con soluciones de calidad sostenibles en el tiempo”
 
