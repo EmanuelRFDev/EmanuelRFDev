@@ -4,10 +4,10 @@
 ![Banner](https://i.imgur.com/weNbhGZ.png)
 
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--0077B5?style=for-the-badge&logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]()
 [![Web](https://img.shields.io/badge/Portfolio-14a1f0?style=for-the-badge&logo=dev.to)]()
 
-## Sobre mi
+## 
 
 Egresado del Instituto Politécnico Nacional 
 +6 meses de experiencia desarrollado proyectos personales, autodidacta buscando crecer y mejora profesional. Poseo mayor experiencia en desarrollo backend ingresa a mi portfolio para ver mis proyectos. 
@@ -28,22 +28,16 @@ Egresado del Instituto Politécnico Nacional
 
 ## Mi Stack:
 
-[![YouTube](https://img.shields.io/badge/YouTube-logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</br>
-[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-</br>
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
-</br>
-[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 <!---
 EmanuelRFDev/EmanuelRFDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
