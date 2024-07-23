@@ -1,7 +1,7 @@
 #  Hola a Todos, soy Emanuel Reyes 👋
 ### Desarrollador Full Stack | Backend
 
-![Banner](banner-github-condor-coders.png)
+![Banner](Baner-Linkedin-ER.png)
 
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]()
