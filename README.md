@@ -14,17 +14,17 @@ Egresado del Instituto Politécnico Nacional <br>
 
 “Desarollo ideas analíticas y backend robusto con soluciones de calidad sostenibles en el tiempo”
 
-- 👋 Hi, I’m @EmanuelRFDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Colaborativo
+- 👀 Analítico
+- 🌱 Autodidacta
+- 💞️ Aprendizaje Rapido
+- 📫 Buenas Practicas
+- 😄 Clean Code
+- ⚡ Metodologia Agil
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
+> 👥 [Certificados]() (Most Valuable Professional) in Developer Technologies
 > 
-> ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
+> ⭐️ [Blog]()
 
 ## Mi Stack:
 
