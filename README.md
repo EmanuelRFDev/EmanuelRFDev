@@ -1,4 +1,4 @@
-#  Hola a Todos, soy Emanuel Reyes 👋
+#  Hola a Todos, Soy Emanuel Reyes 👋
 ### Desarrollador Full Stack | Backend
 
 ![Banner](Baner-Linkedin-ER.png)
