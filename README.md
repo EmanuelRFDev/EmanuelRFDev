@@ -23,8 +23,8 @@ Egresado del Instituto Politécnico Nacional <br>
 - ⚡ Metodologia Agil
 
 > 👥 [Certificados]() 
-> 
-> ⭐️ [Blog]()
+<!-- > 
+> ⭐️ [Blog]()-->
 
 ## Stack:
 
