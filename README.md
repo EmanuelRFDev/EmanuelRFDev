@@ -5,7 +5,7 @@
 
 <!-- [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube)]()-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]()
-[![Web](https://img.shields.io/badge/Portfolio-14a1f0?style=for-the-badge&logo=dev.to)]()
+[![Web](https://img.shields.io/badge/Portfolio-127669?style=for-the-badge&logo=dev.to)]()
 
 ## 
 
