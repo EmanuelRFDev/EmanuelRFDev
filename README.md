@@ -4,8 +4,8 @@
 ![Banner](Baner-Linkedin-ER.png)
 
 <!-- [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube)]()-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]()
-[![Web](https://img.shields.io/badge/Portfolio-127669?style=for-the-badge&logo=dev.to)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emanuel-r-0283b6305/)
+[![Web](https://img.shields.io/badge/Portfolio-127669?style=for-the-badge&logo=dev.to)](https://emanuelreyesfuentes-portfolio.netlify.app/)
 
 ## 
 
@@ -22,7 +22,7 @@ Egresado del Instituto Politécnico Nacional <br>
 - 😄 Clean Code
 - ⚡ Metodologia Agil
 
-> 👥 [Certificados]() 
+> 👥 [Destacables y Certificaciones](https://github.com/EmanuelRFDev/Destacables-y-Certificaciones) 
 <!-- > 
 > ⭐️ [Blog]()-->
 
